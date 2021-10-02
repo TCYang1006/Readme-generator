@@ -1,25 +1,28 @@
 
-    
-    # readme generator
-    
-    ## Description: 
-    auto populated readme from question list
+  
+  # readme
 
-    ###Contents
-    1.  [Installation](#installation)
-    2.  [Usage](#usage)
-    
-    ## Installation:  
-    Inquirer
+  ## License
+  The MIT License
+  
+  ## Description: 
+  generator
 
-    ## Usage:
-    npm
+  ###Contents
+  1.  [Installation](#installation)
+  2.  [Usage](#usage)
+  
+  ## Installation:  
+  npm
 
-    ## Contributing:
-    no guidelines
+  ## Usage:
+  inquirer
 
-    ## Tests:
-    To run tests, run the following line at the command prompt:
-    npm test
+  ## Contributing:
+  none
 
-    
+  ## Tests:
+  To run tests, run the following line at the command prompt:
+  npm test
+
+  
