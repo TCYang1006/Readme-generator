@@ -35,9 +35,11 @@ module.exports.getReadMe = (response) => {
   ## Description: 
   ${response.Description}
 
-  ###Contents
+  ### Contents
   1.  [Installation](#installation)
   2.  [Usage](#usage)
+  3.  [Contributing](#contributing)
+  4.  [Tests](#tests)
   
   ## Installation:  
   ${response.Installation}
@@ -49,8 +51,7 @@ module.exports.getReadMe = (response) => {
   ${response.Contribution}
 
   ## Tests:
-  To run tests, run the following line at the command prompt:
-  npm test
+  To run this project, type "node index.js" or "node index" at the command prompt (quotation marks are not required)
 
   `;
 };
