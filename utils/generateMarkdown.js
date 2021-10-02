@@ -53,5 +53,9 @@ module.exports.getReadMe = (response) => {
   ## Tests:
   To run this project, type "node index.js" or "node index" at the command prompt (quotation marks are not required)
 
+  ## Questions:
+  Github profile:[${response.ghName}](#https://github.com/${response.ghName})
+  If there are any additional questions about this project, please contact me at [${response.Email}](#${response.Email})
+
   `;
 };

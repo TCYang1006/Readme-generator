@@ -36,6 +36,16 @@ const questions = [
         message: 'Please select a license type?',
         name: 'License',
         choices:['Eclipse Public License 1.0', 'The MIT License', 'Open Database License (ODbL)']
+    },
+    {
+        type: 'input',
+        meassage: 'What is your gitHub username?',
+        name: 'ghName'
+    },
+    {
+        type: 'input',
+        message: 'Please enter your email address',
+        name: 'Email'
     }
 ];
 
