@@ -18,15 +18,12 @@ module.exports.getReadMe = (response) => {
     ## Usage:
     ${response.Usage}
 
-    ## Contribution:
+    ## Contributing:
     ${response.Contribution}
 
     ## Tests:
     To run tests, run the following line at the command prompt:
     npm test
-
-    ## License:
-    This project is licensed under the ${response.license} license.
 
     `;
 };

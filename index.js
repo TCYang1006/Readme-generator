@@ -13,7 +13,13 @@ const questions = [
     name: 'Description'},
     {type: 'input',
     message: 'What do you need to install to run your project?',
-    name: 'Installation'}
+    name: 'Installation'},
+    {type: 'input',
+    message: 'What does your project uses?',
+    name: 'Usage'},
+    {type: 'input',
+    message: 'What are the contribution guidelines?',
+    name: 'Contribution'}
 ];
 
 

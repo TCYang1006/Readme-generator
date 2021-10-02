@@ -1,28 +1,25 @@
 
     
-    # A
+    # readme generator
     
     ## Description: 
-    B
+    auto populated readme from question list
 
     ###Contents
     1.  [Installation](#installation)
     2.  [Usage](#usage)
     
     ## Installation:  
-    D
+    Inquirer
 
     ## Usage:
-    undefined
+    npm
 
-    ## Contribution:
-    undefined
+    ## Contributing:
+    no guidelines
 
     ## Tests:
     To run tests, run the following line at the command prompt:
     npm test
-
-    ## License:
-    This project is licensed under the undefined license.
 
     
