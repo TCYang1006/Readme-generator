@@ -3,10 +3,10 @@
   # readme
 
   ## License
-  The MIT License
+  The MIT License[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
   ## Description: 
-  readme generator
+  readme gen
 
   ### Contents
   1.  [Installation](#installation)
@@ -27,7 +27,7 @@
   To run this project, type "node index.js" or "node index" at the command prompt (quotation marks are not required)
 
   ## Questions:
-  Github profile:[TCyang](#https://github.com/TCyang)
+  Github profile:[tcyang](#https://github.com/tcyang)
   If there are any additional questions about this project, please contact me at [yangtongchee@hotmail.com](#yangtongchee@hotmail.com)
 
   

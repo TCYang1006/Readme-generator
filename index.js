@@ -1,7 +1,7 @@
 // TODO: Include packages needed for this application
 const fs = require('fs');
 const inquirer = require('inquirer');
-const { left } = require('inquirer/lib/utils/readline');
+// const { left } = require('inquirer/lib/utils/readline');
 const generateMarkdown = require('./utils/generateMarkdown.js');
 
 // TODO: Create an array of questions for user input
@@ -54,6 +54,7 @@ const questions = [
 //Create a function to initialize app
 const init = () => (
     inquirer.prompt(questions).then(response => writeReadMe(response))
+    
 )
 
 //Create a function to write README file
